@@ -1,0 +1,46 @@
+button {
+  padding: 8px;
+  font-family: 'Tahoma';
+  font-size: 18px;
+  background-color: #0069ac;
+  color: #eeeeee;
+  border-radius: 10px;
+  border: none;
+  margin: 10px;
+
+}
+
+h1{
+  font-family: 'Tahoma';
+  font-size: 45px;
+  padding: 3px;
+  text-align: center;
+  color: white;
+}
+h2{
+  font-family: 'Tahoma';
+  font-size: 35px;
+  padding: 3px;
+  text-align: center;
+  color: white;
+}
+p{
+    font-family: 'Tahoma';
+    font-size: 20px;
+    padding: 9px;
+    text-align: center;
+    color: white;
+  }
+  body{
+background-color: #0f0f0f;
+}
+.centimage{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+.TagRii{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
