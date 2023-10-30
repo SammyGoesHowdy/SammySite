@@ -1,6 +1,6 @@
 button {
     padding: 15px;
-    font-family: 'Tahoma';
+    font-family: 'Tahoma', 'Helvetica', 'Roboto', sans-serif;
     font-size: 18px;
     background-color: red;
     color: #eeeeee;
@@ -10,14 +10,14 @@ button {
   
   }
   p{
-    font-family: 'Tahoma';
+    font-family: 'Tahoma', 'Helvetica', 'Roboto', sans-serif;
     font-size: 45px;
     padding: 9px;
     text-align: center;
     color: white;
   }
   h1{
-    font-family: 'Tahoma';
+    font-family: 'Tahoma', 'Helvetica', 'Roboto', sans-serif;
     font-size: 65px;
     padding: 3px;
     text-align: center;

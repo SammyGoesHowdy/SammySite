@@ -1,6 +1,6 @@
 button {
   padding: 8px;
-  font-family: 'Tahoma';
+  font-family: 'Tahoma', 'Helvetica', 'Roboto', sans-serif;
   font-size: 18px;
   background-color: #0069ac;
   color: #eeeeee;
@@ -11,21 +11,21 @@ button {
 }
 
 h1{
-  font-family: 'Tahoma';
+  font-family: 'Tahoma', 'Helvetica', 'Roboto', sans-serif;
   font-size: 45px;
   padding: 3px;
   text-align: center;
   color: white;
 }
 h2{
-  font-family: 'Tahoma';
+  font-family: 'Tahoma', 'Helvetica', 'Roboto', sans-serif;
   font-size: 35px;
   padding: 3px;
   text-align: center;
   color: white;
 }
 p{
-    font-family: 'Tahoma';
+  font-family: 'Tahoma', 'Helvetica', 'Roboto', sans-serif;
     font-size: 20px;
     padding: 9px;
     text-align: center;
@@ -44,3 +44,16 @@ background-color: #0f0f0f;
   margin-left: auto;
   margin-right: auto;
 }
+
+.web-button, .vertical-middle {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  .web-button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4px;
+  }

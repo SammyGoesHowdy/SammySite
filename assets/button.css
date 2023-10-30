@@ -1,6 +1,6 @@
 button {
   padding: 15px;
-  font-family: 'Tahoma';
+  font-family: 'Tahoma', 'Helvetica', 'Roboto', sans-serif;
   font-size: 18px;
   background-color: #0069ac;
   color: #eeeeee;
@@ -11,14 +11,37 @@ button {
 }
 
 h1{
-  font-family: 'Tahoma';
+  font-family: 'Tahoma', 'Helvetica', 'Roboto', sans-serif;
   font-size: 65px;
   padding: 3px;
   text-align: center;
   color: white;
 }
+h2{
+  font-family: 'Tahoma', 'Helvetica', 'Roboto', sans-serif;
+  font-size: 35px;
+  padding: 3px;
+  text-align: center;
+  color: white;
+}
+h3{
+    font-family: 'Tahoma', 'Helvetica', 'Roboto', sans-serif;
+    font-size: 35px;
+    padding: 3px;
+    text-align: center;
+    color: white;
+}
+
+li{
+  font-family: 'Tahoma', 'Helvetica', 'Roboto', sans-serif;
+  font-size: 35px;
+  padding: 3px;
+  text-align: center;
+  color: white;
+}
+
 p{
-    font-family: 'Tahoma';
+  font-family: 'Tahoma', 'Helvetica', 'Roboto', sans-serif;
     font-size: 45px;
     padding: 9px;
     text-align: center;
@@ -36,4 +59,19 @@ background-color: #0f0f0f;
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  -ms-interpolation-mode: nearest-neighbor;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+}
+
+.web_button {
+  -ms-interpolation-mode: nearest-neighbor;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
 }
