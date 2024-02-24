@@ -1,4 +1,4 @@
-# _Sammy's Junk (Website)._ <img src="assets/sammybg.png" align="right" width="128" height="128"  />
+# _Sammy's Junk - Website_ <img src="assets/sammybg.png" align="right" width="128" height="128"  />
 
 
 A website version of [Sammy's Junk](https://github.com/SammyGoesHowdy/SammysJunk), a prettier(?) way to browse through the Sammy's Junk repository.
